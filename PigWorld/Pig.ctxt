@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pig
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pig\ here.\r\n\ @author\ (your\ name)\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=void\ moveAndTurn()
+comment2.text=\r\n\ //Allows\ the\ pig\ to\ move\ around\ in\ game\r\n
+comment3.params=
+comment3.target=void\ eat()
+comment3.text=\r\n\ //allows\ the\ pig\ to\ eat\ the\ burgers\r\n
+comment4.params=
+comment4.target=boolean\ isGameWon()
+comment4.text=\r\n\ //changes\ the\ screen\ when\ game\ is\ won\r\n
+comment5.params=
+comment5.target=void\ transitionToGameWorldWon()
+comment5.text=\r\n\ //transitions\ to\ GameWorldWon\r\n
+numComments=6
